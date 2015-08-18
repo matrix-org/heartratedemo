@@ -1,3 +1,13 @@
+# Matrix Heart Rate Demo
+
+===========================================================================
+
+This is an iOS app that takes data from healthkit and inserts it into a Matrix room.
+The app is based on Apple's `Fit` sample application.
+
+The original README for `Fit` follows.
+
+
 # Fit: HealthKit in Action
 
 ===========================================================================
